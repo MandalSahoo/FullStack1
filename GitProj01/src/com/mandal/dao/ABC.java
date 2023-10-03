@@ -6,6 +6,10 @@ public class ABC {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hello");
+		
+		XYZ xyz=new XYZ();
+		
+		xyz.m1();
 
 	}
 
